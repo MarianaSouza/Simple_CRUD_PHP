@@ -6,4 +6,7 @@ This program allows us to connect with a MySQL database and also to make the CRU
 
 
 
+
+
+
 ![Project Image](https://github.com/MarianaSouza/Simple_CRUD_PHP/blob/master/create.PNG) 
